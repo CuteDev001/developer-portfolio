@@ -1,20 +1,23 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Software Engineer I',
-    company: "Teton Private Ltd.",
-    duration: "(Jan 2022 - Present)"
+    title: 'Data Science & AI Intern',
+    company: "Central Tool Room & Training Centre (CTTC)",
+    duration: "(June 2025 - July 2025)",
+    description: "Hands-on experience in data science and AI. Worked on data cleaning, analysis, machine learning, deep learning, and computer vision projects. Gained strong foundation in real-world AI applications."
   },
   {
     id: 2,
-    title: "FullStack Developer",
-    company: "Fiverr (freelance)",
-    duration: "(Jun 2021 - Jan 2022)"
+    title: "Data Analytics Intern",
+    company: "Central Tool Room & Training Centre (CTTC)",
+    duration: "(July 2024 - August 2024)",
+    description: "Completed an advanced data analytics program. Covered Python-based analytics, ML modeling, SQL for database management, and advanced Excel."
   },
   {
     id: 3,
-    title: "Self Employed",
-    company: "Code and build something in everyday.",
-    duration: "(Jan 2018 - Present)"
+    title: "Java Programming Intern",
+    company: "NAVODITA INFOTECH",
+    duration: "(January 2024 - February 2024)",
+    description: "Learned Java programming fundamentals and core syntax."
   }
 ]
